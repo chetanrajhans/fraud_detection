@@ -8,3 +8,5 @@ model2():
 
 model3():
     print("addind code for model 3")
+
+print("model 2 is best")
